@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aviacheslav
 - 👀 I’m interested in Programming, Web-Development, Machine learning
-- 🌱 I’m currently learning Java, Python, Machine learning algorythms, HTML, CSS, Javaript
+- 🌱 I’m currently learning Java, Python, Machine learning & othr AI algorythms, HTML, CSS, Javaript
 - 💞️ I’m looking to collaborate on real interesting projects, which can improve my skills
 - 📫 How to reach me: afonin.viacheslav@yandex.ru
 
